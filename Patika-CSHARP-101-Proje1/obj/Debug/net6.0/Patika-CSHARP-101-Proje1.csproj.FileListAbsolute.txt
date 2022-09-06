@@ -1,0 +1,15 @@
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\bin\Debug\net6.0\Patika-CSHARP-101-Proje1.exe
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\bin\Debug\net6.0\Patika-CSHARP-101-Proje1.deps.json
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\bin\Debug\net6.0\Patika-CSHARP-101-Proje1.runtimeconfig.json
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\bin\Debug\net6.0\Patika-CSHARP-101-Proje1.dll
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\bin\Debug\net6.0\Patika-CSHARP-101-Proje1.pdb
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.csproj.AssemblyReference.cache
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.AssemblyInfoInputs.cache
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.AssemblyInfo.cs
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.csproj.CoreCompileInputs.cache
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.dll
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\refint\Patika-CSHARP-101-Proje1.dll
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.pdb
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\Patika-CSHARP-101-Proje1.genruntimeconfig.cache
+C:\Users\astro\patika\Patika-CSHARP-101-Proje1\obj\Debug\net6.0\ref\Patika-CSHARP-101-Proje1.dll

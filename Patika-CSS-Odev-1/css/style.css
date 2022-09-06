@@ -1,0 +1,27 @@
+
+
+body{
+    font-family: sans-serif;
+    margin: 10rem 1em 0 1em;
+}
+
+#title{
+    color: rgb(216, 132, 132);
+}
+
+#navbar{
+    list-style-type: none;
+}
+
+#navbar>li{
+    display: inline;
+    margin-right: 1em;
+}
+
+#page-title{
+    color: rgb(128, 43, 225);
+}
+
+h4{
+    color: rgb(191, 191, 88);
+}

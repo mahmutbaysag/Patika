@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    
+    <title></title>
+    <style>
+        body {
+  background: black;
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+     margin-top: 120px;
+     width: 17%;
+}
+    </style>
+</head>
+<body>
+
+    <div class="text-center">
+        <img
+          src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png"
+          alt=""
+          class="rounded"
+        />
+        <div class="text1 text-center">
+          Merhaba, <strong><span id="myName"></span></strong>! Hoş geldin!
+        </div>
+        <div id="myClock" class="clock" onload="showTime()"></div>
+        <div class="text2 text-center">
+          tarihinde 
+          
+        </div>
+      </div>
+        <script defer>
+            let isim = "";
+            isim = prompt("İsminizi Giriniz","Mahmut","Mahmut");
+            document.title = `Merhaba ${isim}`;
+            document.querySelector("#myName").textContent = isim + "!";
+            tarih();
+            setInterval(tarih, 1000);
+
+            function tarih(){
+                let d = new Date();
+            let gunler = [
+              "Pazar",
+              "Pazartesi",
+              "Salı",
+              "Çarşamba",
+              "Perşembe",
+              "Cuma",
+              "Cumartesi",
+            ];
+            document.querySelector(".text2").innerHTML = d.toLocaleTimeString() + " "+ gunler[d.getDay()] +"<br>" + `<strong>tarihinde Kodluyoruz Frontend Web Development Patikası</strong>'nın
+          Javascript bölümü 1. Ödevindesiniz.`;
+            }
+        </script>
+        
+</body>
+</html>

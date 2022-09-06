@@ -1,0 +1,15 @@
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\bin\Debug\net6.0\datetime-ve-math-siniflari.exe
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\bin\Debug\net6.0\datetime-ve-math-siniflari.deps.json
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\bin\Debug\net6.0\datetime-ve-math-siniflari.runtimeconfig.json
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\bin\Debug\net6.0\datetime-ve-math-siniflari.dll
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\bin\Debug\net6.0\datetime-ve-math-siniflari.pdb
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.csproj.AssemblyReference.cache
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.AssemblyInfoInputs.cache
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.AssemblyInfo.cs
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.csproj.CoreCompileInputs.cache
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.dll
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\refint\datetime-ve-math-siniflari.dll
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.pdb
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\datetime-ve-math-siniflari.genruntimeconfig.cache
+C:\Users\astro\patika\Patika-CSHARP-Ders-Notlari\datetime-ve-math-siniflari\obj\Debug\net6.0\ref\datetime-ve-math-siniflari.dll

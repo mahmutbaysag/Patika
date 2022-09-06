@@ -1,0 +1,29 @@
+
+
+table{
+    margin: 0;
+    width: 90%;
+}
+
+#searchbar{
+    background-color: #F0F0F0;
+}
+
+#searchbox{
+    width: 302px;
+}
+
+#section1{
+    width:37%;
+    background-color: #7EE5DA;
+}
+
+#section2{
+    background-color: #70CCC2;
+    font-size: 13px;
+}
+
+#section3{
+    background-color: #62B3AA;
+    font-size: 13px;
+}
