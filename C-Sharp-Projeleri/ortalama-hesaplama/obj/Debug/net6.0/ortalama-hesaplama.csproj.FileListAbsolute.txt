@@ -1,0 +1,15 @@
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\bin\Debug\net6.0\ortalama-hesaplama.exe
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\bin\Debug\net6.0\ortalama-hesaplama.deps.json
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\bin\Debug\net6.0\ortalama-hesaplama.runtimeconfig.json
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\bin\Debug\net6.0\ortalama-hesaplama.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\bin\Debug\net6.0\ortalama-hesaplama.pdb
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.csproj.AssemblyReference.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.AssemblyInfoInputs.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.AssemblyInfo.cs
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\refint\ortalama-hesaplama.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.pdb
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ortalama-hesaplama.genruntimeconfig.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\ortalama-hesaplama\obj\Debug\net6.0\ref\ortalama-hesaplama.dll
