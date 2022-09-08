@@ -1,0 +1,5 @@
+C:\Users\astro\Patika\C-Sharp-Projeleri\barcode-generator-reader\obj\Debug\net5.0\barcode-generator-reader.csproj.AssemblyReference.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\barcode-generator-reader\obj\Debug\net5.0\barcode-generator-reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\Patika\C-Sharp-Projeleri\barcode-generator-reader\obj\Debug\net5.0\barcode-generator-reader.AssemblyInfoInputs.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\barcode-generator-reader\obj\Debug\net5.0\barcode-generator-reader.AssemblyInfo.cs
+C:\Users\astro\Patika\C-Sharp-Projeleri\barcode-generator-reader\obj\Debug\net5.0\barcode-generator-reader.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\bin\Debug\net6.0\atm-uygulamasi.exe
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\bin\Debug\net6.0\atm-uygulamasi.deps.json
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\bin\Debug\net6.0\atm-uygulamasi.runtimeconfig.json
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\bin\Debug\net6.0\atm-uygulamasi.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\bin\Debug\net6.0\atm-uygulamasi.pdb
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.AssemblyInfo.cs
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\refint\atm-uygulamasi.dll
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.pdb
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\atm-uygulamasi.genruntimeconfig.cache
+C:\Users\astro\Patika\C-Sharp-Projeleri\atm-uygulamasi\obj\Debug\net6.0\ref\atm-uygulamasi.dll

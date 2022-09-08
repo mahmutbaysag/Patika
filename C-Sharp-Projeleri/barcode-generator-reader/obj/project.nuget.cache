@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEr0g98cbXrRKS+fGaLvjhTBgQnlCLy7FZZFCuQnns+Z2oxDokWqenF3bZRE+6U8mdnHu5jSUJYzI+nyZPmehA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\astro\\Patika\\C-Sharp-Projeleri\\barcode-generator-reader\\barcode-generator-reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\spire.barcode\\6.8.0\\spire.barcode.6.8.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\zen.barcode.rendering.framework.3.1.10729.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Zen.Barcode.Rendering.Framework 3.1.10729.1' paketi, proje hedef çerçevesi 'net6.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Zen.Barcode.Rendering.Framework",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
