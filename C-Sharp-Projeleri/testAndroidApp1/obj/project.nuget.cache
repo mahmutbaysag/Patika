@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpH7qxVXArX8W0kDcid/TOKzAiFJ4RGCZKDlims8lkVdJ6T13mqfTV1GL84WlGv+XRspleUHgU9FMLj7M7174A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\astro\\Patika\\C-Sharp-Projeleri\\testAndroidApp1\\testAndroidApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.6\\microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.6\\microsoft.netcore.app.host.linux-arm64.6.0.6.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.6\\microsoft.netcore.app.host.linux-arm.6.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor.",
+      "libraryId": "Microsoft.Android.Runtime.33.android-x86"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor.",
+      "libraryId": "Microsoft.Android.Runtime.33.android-arm64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor.",
+      "libraryId": "Microsoft.Android.Runtime.33.android-arm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor.",
+      "libraryId": "Microsoft.Android.Runtime.33.android-x64"
+    }
+  ]
+}
